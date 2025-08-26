@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "mod 4 1",
+			"path": "../mod 4 1"
+		},
+		{
+			"name": "mod4 1 assets",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mod 4 1"
+	}
+}
